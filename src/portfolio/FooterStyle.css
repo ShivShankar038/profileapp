@@ -1,0 +1,30 @@
+/*----------------------------
+The Footer
+-----------------------------*/
+
+footer {
+	display:block;
+	background-color:#13181d;
+	/* position:fixed;*/
+	width:100%;
+	height:auto;
+	padding-top: 10px;
+	bottom:0;
+	left:0;
+	z-index: 100000;
+}
+
+.social-media{ float:left; width:46%; padding: 2%;
+}
+.social-media a{ padding:0px 10px; color:#4d5d7c;
+}
+.address{ float: right; width:46%;  padding: 2%; font-size:12px; line-height:22px; font-weight:normal; color:#8c8c8c;
+}
+
+/*Smartphone*/
+@media only screen and (max-width : 600px) {
+	.social-media{ width:90%; padding: 5%;
+	}
+	.address{ width:86%; padding: 7%;
+	}
+}
