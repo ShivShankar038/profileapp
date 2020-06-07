@@ -37,5 +37,5 @@
     "not op_mini all"
   ],
   "proxy": "http://localhost:3000",
-  "homepage": "https://shivshankar038.github.io/profile/"
+  "homepage": "../profileapp"
 }
