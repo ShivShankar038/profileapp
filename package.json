@@ -9,7 +9,7 @@
     "react-dom": "^16.4.1",
     "react-router": "^3.0.5",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "1.1.4"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,9 +27,9 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "css-loader": "^1.0.0",
+    "css-loader": "^6.7.3",
     "redux-devtools-extension": "^2.13.5",
-    "webpack": "^3.8.1"
+    "webpack": "^5.75.0"
   },
   "browserslist": [
     ">0.2%",
